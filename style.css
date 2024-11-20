@@ -1,0 +1,30 @@
+body{
+    font-size: 3vh;
+    border: 1px solid black;
+    height: 100vh;
+    width: 100%;
+    
+    
+}
+
+.first{
+  
+letter-spacing: 1px;
+margin-left: 3%;
+ border-radius: 10px;
+
+}
+    
+    
+    
+
+h1{
+    margin-left: 10%;
+    font-size: 4vh;
+    color: blue;
+}
+
+
+.second{
+    margin-left: 3%;
+}
